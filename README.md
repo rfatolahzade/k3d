@@ -77,5 +77,5 @@ In this scenario I'll delete a node:
 ```bash
 kubectl delete node k3d-demohttps-agent-1
 ```
-This cast shows you what happen after:
+This cast shows you what happens after
 https://asciinema.org/a/1zdK14TYdqgqB41VvBbVbeuj9
